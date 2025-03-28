@@ -1,0 +1,9 @@
+streamlit>=1.0
+python-dotenv>=1.0
+faiss-cpu>=1.7.2
+langchain>=0.0.136
+langchain_groq>=0.0.1
+langchain_community>=0.0.1
+langchain_huggingface>=0.0.1
+sentence-transformers>=2.2.2
+transformers>=4.26.0
